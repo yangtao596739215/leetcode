@@ -1,4 +1,4 @@
-package 经典算法.排序;
+package 经典算法.排序.快速排序;
 
 import java.util.ArrayList;
 import java.util.List;
